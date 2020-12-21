@@ -22,6 +22,8 @@ public class Stepdefination {
 	public void user_is_on_netbanking_landing_page() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
 	  System.out.println("card are displayed");
+	  
+	  //System.out.println();//this is new 
 	}
 
 	@When("^User login into application with \"([^\"]*)\" and password \"([^\"]*)\"$")
